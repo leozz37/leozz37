@@ -1,18 +1,3 @@
-
-<!--
-**leozz37/leozz37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Leonardo 👋
 
 
@@ -64,8 +49,7 @@ Here are some ideas to get you started:
 <img align="left" width="26px" src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg" />
 <img align="left" width="26px" src="https://seeklogo.com/images/R/redhat-logo-259A623E59-seeklogo.com.png" />
 
-
-
+<br />
 
 
 [dextra]: https://dextra.com.br/pt/
