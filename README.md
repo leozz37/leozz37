@@ -53,6 +53,21 @@ Here are some ideas to get you started:
 <img align="left" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 
+<br />
+
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" />
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png" />
+<img align="left" width="26px" src="https://jbasoftware.com/assets/img/software/grafana.png" />
+<img align="left" width="26px" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" />
+<img align="left" width="26px" src="https://2017.continuouslifecycle.london/wp-content/uploads/2017/01/docker-swarm-hero2.png" />
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
+<img align="left" width="26px" src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg" />
+<img align="left" width="26px" src="https://seeklogo.com/images/R/redhat-logo-259A623E59-seeklogo.com.png" />
+
+
+
+
+
 [dextra]: https://dextra.com.br/pt/
 [texugo]: https://github.com/leozz37/texugo
 [cpmGithub]: https://github.com/TheLartians/CPM.cmake
