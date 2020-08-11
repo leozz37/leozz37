@@ -7,7 +7,9 @@
 - 👯 I’m looking to contribute more to Open Source projects
 - ⚙️ I'm a robotics enthusiast
 - 🚀 [CPM][cpmGithub] evangelist!
+- 📚 Check my [books recomendation](https://github.com/leozz37/books)!
 - 😄 Pronouns: he/him
+
 
 ### Connect with me:
 
