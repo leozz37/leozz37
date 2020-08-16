@@ -1,13 +1,22 @@
-# Hi there, I'm Leonardo 👋
+# Hi there
 
+I'm a computer engineering student, currently working witg C/C++ and Python, robotics and astronautics enthusiast and open source defender.
 
-### I'm a Software Developer from Brazil!
+# Personal Details
+
+* **Name**: Leonardo Lima
+* **Age**: 21
+* **Living**: Curitiba, Brazil
+* **Company**: [Dextra Digital][dextra]
+* **University**: Computer Engineering, Universidade Positivo
+
+# Curiosities
+
 - 🔭 I’m currently working on a [modern C++ message switch][texugo]!
-- 🌱 I’m an intern at [Dextra][dextra]
 - 👯 I’m looking to contribute more to Open Source projects
-- ⚙️ I'm a robotics enthusiast
 - 🚀 [CPM][cpmGithub] evangelist!
 - 📚 Check my [books recomendation](https://github.com/leozz37/books)!
+- ✍️ Check my [writings][medium]!
 - 😄 Pronouns: he/him
 
 
@@ -48,3 +57,4 @@
 [twitter]: https://twitter.com/Leozzils
 [instagram]: https://www.instagram.com/leo.cpp/?hl=pt-br
 [linkedin]: https://www.linkedin.com/in/leonardoaugustolima/
+[medium]: https://medium.com/me/stories/public
