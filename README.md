@@ -1,6 +1,6 @@
 # Hi there
 
-I'm a computer engineering student, currently working witg C/C++ and Python, robotics and astronautics enthusiast and open source defender.
+I'm a computer engineering student, currently working with C/C++ and Python, robotics and astronautics enthusiast and open source defender.
 
 # Personal Details
 
