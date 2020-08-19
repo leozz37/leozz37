@@ -35,19 +35,20 @@ I'm a computer engineering student, currently working with C/C++ and Python, rob
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/699px-C_Sharp_logo.svg.png" />
 <img align="left" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" width="26px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />
 <img align="left" width="26px" src="https://extendase.files.wordpress.com/2018/05/mongodb.png" />
 <img align="left" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
+<img align="left" width="26px" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" />
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2017/11/amazon-web-services-logo.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" />
 <img align="left" width="26px" src="https://jbasoftware.com/assets/img/software/grafana.png" />
-<img align="left" width="26px" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" />
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
+
 
 <br />
 
