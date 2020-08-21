@@ -12,7 +12,7 @@ I'm a computer engineering student, currently working with C/C++ and Python, rob
 
 # Curiosities
 
-- 🔭 I’m currently working on a [modern C++ message switch][texugo]!
+- 🔭 I’m currently working on a [LGBT friendly, offense generator][profanity]!
 - 👯 I’m looking to contribute more to Open Source projects
 - 🚀 [CPM][cpmGithub] evangelist!
 - 📚 Check my [books recomendation](https://github.com/leozz37/books)!
@@ -54,6 +54,7 @@ I'm a computer engineering student, currently working with C/C++ and Python, rob
 
 [dextra]: https://dextra.com.br/pt/
 [texugo]: https://github.com/leozz37/texugo
+[profanity]: https://github.com/leozz37/profanity
 [cpmGithub]: https://github.com/TheLartians/CPM.cmake
 [twitter]: https://twitter.com/Leozzils
 [instagram]: https://www.instagram.com/leo.cpp/?hl=pt-br
