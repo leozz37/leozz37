@@ -4,16 +4,26 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 
 <img align="left" alt="Leozz37's Github Stats" src="https://github-readme-stats-one-eta.vercel.app/api?username=leozz37&show_icons=true&hide_border=true" />
 
-- 🇧🇷 Living in Curitiba, Brazil
-- 🎓 Computer Engineering Student @ Positivo University
-- 🏢 Working at [Dextra Digital][dextra]
-- 🚀 [CPM][cpmGithub] evangelist!
-- 📚 Check my [programming books][books] recomendation
-- ✍️ Check my [writings][medium]
-- 😄 Pronouns: he/him
-
+<br />
 <br />
 
+### Curiosities
+
+🇧🇷 Living in Curitiba, Brazil
+
+🎓 Computer Engineering Student @ Positivo University
+
+🏢 Working at [Dextra Digital][dextra]
+
+🚀 [CPM][cpmGithub] evangelist!
+
+📚 Check my [programming books][books] recomendation
+
+✍️ Check my [writings][medium]
+
+😄 Pronouns: he/him
+
+<br />
 
 ### Connect with me:
 
@@ -21,7 +31,6 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 [<img align="left" alt="Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
 [<img align="left" alt="Medium" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.QkSzer_aYnx_DQExVcYPVAHaHa%26pid%3DApi&f=1"/>][medium]
-
 
 <br />
 
@@ -47,8 +56,6 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 <img align="left" width="26px" src="https://jbasoftware.com/assets/img/software/grafana.png" />
 
 <br />
-
-### Activity
 
 [dextra]: https://dextra.com.br/pt/
 [cpmGithub]: https://github.com/TheLartians/CPM.cmake
