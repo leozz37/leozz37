@@ -2,20 +2,14 @@
 
 I'm a 21 years old backend developer focused on C++ and Python, robotics and astronautics enthusiast. Feel free to contact me on my social medias.
 
-## Curiosities
+<img align="left" alt="Leozz37's Github Stats" src="https://github-readme-stats-one-eta.vercel.app/api?username=leozz37&show_icons=true&hide_border=true" />
 
 🇧🇷 Living in Curitiba, Brazil
-
 🎓 Computer Engineering Student @ Positivo University
-
 🏢 Working at [Dextra Digital][dextra]
-
 🚀 [CPM][cpmGithub] evangelist!
-
 📚 Check my [programming books][books] recomendation
-
 ✍️ Check my [writings][medium]
-
 😄 Pronouns: he/him
 
 
@@ -53,9 +47,6 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 <br />
 
 ### Activity
-
-<img align="left" alt="Leozz37's Github Stats" src="https://github-readme-stats-one-eta.vercel.app/api?username=leozz37&show_icons=true&hide_border=true" />
-
 
 [dextra]: https://dextra.com.br/pt/
 [cpmGithub]: https://github.com/TheLartians/CPM.cmake
