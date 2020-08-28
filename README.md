@@ -2,6 +2,7 @@
 
 I'm a computer engineering student, currently working with C/C++ and Python, robotics and astronautics enthusiast and open source defender.
 
+## Curiosities
 
 🇧🇷 Living in Curitiba, Brazil
 
