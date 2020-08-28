@@ -1,12 +1,10 @@
 # Hi, I'm Leonardo
 
-I'm a computer engineering student, currently working with C/C++ and Python, robotics and astronautics enthusiast and open source defender.
+I'm a 21 years old backend developer focused on C++ and Python, and I'm robotics and astronautics enthusiast. Feel free to contact me on my social medias.
 
 ## Curiosities
 
 🇧🇷 Living in Curitiba, Brazil
-
-👨 21 years old
 
 🎓 Computer Engineering Student @ Positivo University
 
@@ -15,8 +13,6 @@ I'm a computer engineering student, currently working with C/C++ and Python, rob
 🚀 [CPM][cpmGithub] evangelist!
 
 ✍️ Check my [writings][medium]
-
-
 
 😄 Pronouns: he/him
 
