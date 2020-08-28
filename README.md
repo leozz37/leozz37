@@ -35,6 +35,7 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 <img align="left" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.p0rlbl65e-OA4VXms4JHWgHaHa%26pid%3DApi&f=1" />
 <img align="left" width="26px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />
 <img align="left" width="26px" src="https://extendase.files.wordpress.com/2018/05/mongodb.png" />
 <img align="left" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
@@ -42,6 +43,8 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2017/11/amazon-web-services-logo.png" />
+<img align="left" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.loxleyorbit.com%2Fwp-content%2Fuploads%2F2018%2F02%2FGoogle-Cloud-Icon-Logo-Large-192px-color-png.png&f=1&nofb=1" />
+<img align="left" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fjaredrhodes.com%2Fwp-content%2Fuploads%2F2019%2F01%2Fazure-logo.png%3Ffit%3D1200%252C936%26ssl%3D1&f=1&nofb=1" />
 <img align="left" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" />
@@ -57,4 +60,4 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 [twitter]: https://twitter.com/Leozzils
 [instagram]: https://www.instagram.com/leo.cpp/?hl=pt-br
 [linkedin]: https://www.linkedin.com/in/leonardoaugustolima/
-[medium]: https://medium.com/me/stories/public
+[medium]: https://medium.com/@leonardoaugusto287
