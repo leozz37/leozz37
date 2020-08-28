@@ -12,6 +12,8 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 
 🚀 [CPM][cpmGithub] evangelist!
 
+📚 Check my [programming books][books] recomendation
+
 ✍️ Check my [writings][medium]
 
 😄 Pronouns: he/him
@@ -56,10 +58,9 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 
 
 [dextra]: https://dextra.com.br/pt/
-[texugo]: https://github.com/leozz37/texugo
-[profanity]: https://github.com/leozz37/profanity
 [cpmGithub]: https://github.com/TheLartians/CPM.cmake
 [twitter]: https://twitter.com/Leozzils
 [instagram]: https://www.instagram.com/leo.cpp/?hl=pt-br
 [linkedin]: https://www.linkedin.com/in/leonardoaugustolima/
 [medium]: https://medium.com/@leonardoaugusto287
+[books]: https://github.com/leozz37/books
