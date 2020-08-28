@@ -48,8 +48,12 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" />
 <img align="left" width="26px" src="https://jbasoftware.com/assets/img/software/grafana.png" />
 
-
 <br />
+
+### Activity
+
+<img align="left" alt="Leozz37's Github Stats" src="https://github-readme-stats-one-eta.vercel.app/api?username=leozz37&show_icons=true&hide_border=true" />
+
 
 [dextra]: https://dextra.com.br/pt/
 [texugo]: https://github.com/leozz37/texugo
