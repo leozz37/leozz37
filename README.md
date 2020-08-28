@@ -1,23 +1,23 @@
-# Hi there
+# Hi, I'm Leonardo
 
 I'm a computer engineering student, currently working with C/C++ and Python, robotics and astronautics enthusiast and open source defender.
 
-# Personal Details
 
-* **Name**: Leonardo Lima
-* **Age**: 21
-* **Living**: Curitiba, Brazil
-* **Company**: [Dextra Digital][dextra]
-* **University**: Computer Engineering, Universidade Positivo
+🇧🇷 Living in Curitiba, Brazil
 
-# Curiosities
+👨 21 years old
 
-- 🔭 I’m currently working on a [LGBT friendly, offense generator][profanity]!
-- 👯 I’m looking to contribute more to Open Source projects
-- 🚀 [CPM][cpmGithub] evangelist!
-- 📚 Check my [books recomendation](https://github.com/leozz37/books)!
-- ✍️ Check my [writings][medium]!
-- 😄 Pronouns: he/him
+🎓 Computer Engineering Student @ Positivo University
+
+🏢 Working at [Dextra Digital][dextra]
+
+🚀 [CPM][cpmGithub] evangelist!
+
+✍️ Check my [writings][medium]
+
+
+
+😄 Pronouns: he/him
 
 
 ### Connect with me:
@@ -25,6 +25,8 @@ I'm a computer engineering student, currently working with C/C++ and Python, rob
 [<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
+[<img align="left" alt="Medium" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.QkSzer_aYnx_DQExVcYPVAHaHa%26pid%3DApi&f=1"/>][medium]
+
 
 <br />
 
