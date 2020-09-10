@@ -30,7 +30,8 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />][instagram]
+[<img align="left" alt="Spotify" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg" />][spotify]
 [<img align="left" alt="Medium" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.QkSzer_aYnx_DQExVcYPVAHaHa%26pid%3DApi&f=1"/>][medium]
 
 <br />
@@ -62,6 +63,7 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 [cpmGithub]: https://github.com/TheLartians/CPM.cmake
 [twitter]: https://twitter.com/Leozzils
 [instagram]: https://www.instagram.com/leo.cpp/?hl=pt-br
+[spotify]: https://open.spotify.com/user/leozzils?si=OqyBabsEQTKYZDxEy0MoFQ
 [linkedin]: https://www.linkedin.com/in/leonardoaugustolima/
 [medium]: https://medium.com/@leonardoaugusto287
 [books]: https://github.com/leozz37/books
