@@ -8,10 +8,7 @@
 <a href="https://www.instagram.com/leo.cpp/?hl=pt-br"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/leozzils?si=OqyBabsEQTKYZDxEy0MoFQ"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@leonardoaugusto287"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg"></a>&nbsp;&nbsp;
-
-
 </p>
-
 
 I'm a 21 years old backend developer focused on C++ and Python, robotics and astronautics enthusiast. Feel free to contact me on my social medias.
 
@@ -22,16 +19,15 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-
 ### Curiosities
 
 🇧🇷 Living in Curitiba, Brazil
 
 🎓 Computer Engineering Student @ Positivo University
 
-🏢 Software Engineer at [Dextra Digital][dextra]
+🏢 Software Engineer at [Dextra Digital](https://dextra.com.br/pt/)
 
-📚 Check my [programming books][books] recomendation
+📚 Check my [programming books](https://github.com/leozz37/books) recomendation
 
 😄 Pronouns: he/him
 
@@ -60,6 +56,3 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 <img align="left" width="26px" src="https://jbasoftware.com/assets/img/software/grafana.png" />
 
 <br />
-
-[dextra]: https://dextra.com.br/pt/
-[books]: https://github.com/leozz37/books
