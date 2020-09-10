@@ -22,8 +22,6 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
-
-  ---
 ### Curiosities
 
 🇧🇷 Living in Curitiba, Brazil
