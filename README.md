@@ -1,4 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Leonardo</h1>
+<h3 align="center">Software Engineer</h3>
+
 <p align='center'>
 <a href="https://www.linkedin.com/in/leonardoaugustolima/"><img height="30" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Leozzils"><img height="30" src="https://image.flaticon.com/icons/svg/733/733579.svg"></a>&nbsp;&nbsp;
