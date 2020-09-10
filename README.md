@@ -2,7 +2,9 @@
 
 I'm a 21 years old backend developer focused on C++ and Python, robotics and astronautics enthusiast. Feel free to contact me on my social medias.
 
-![teste](https://github-readme-stats-one-eta.vercel.app/api?username=leozz37&show_icons=true&hide_border=true)
+![Leozz37 github stats](https://github-readme-stats.vercel.app/api?username=leozz37&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leozz37&layout=compact&hide_border=true)](https://github.com/leozz37/github-readme-stats)
+
 
 ### Curiosities
 
