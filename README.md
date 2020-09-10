@@ -1,5 +1,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Leonardo</h1>
-<h3 align="center">Software Engineer</h3>
+<p align='center'>
+<a href="https://www.linkedin.com/in/leonardoaugustolima/"><img height="30" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Leozzils"><img height="30" src="https://image.flaticon.com/icons/svg/733/733579.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/leo.cpp/?hl=pt-br"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg"></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/leozzils?si=OqyBabsEQTKYZDxEy0MoFQ"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@leonardoaugusto287"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg"></a>&nbsp;&nbsp;
+
+
+</p>
+
+
+
 
 I'm a 21 years old backend developer focused on C++ and Python, robotics and astronautics enthusiast. Feel free to contact me on my social medias.
 
@@ -23,16 +34,6 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 ✍️ Check my [writings][medium]
 
 😄 Pronouns: he/him
-
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />][instagram]
-[<img align="left" alt="Spotify" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg" />][spotify]
-[<img align="left" alt="Medium" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.QkSzer_aYnx_DQExVcYPVAHaHa%26pid%3DApi&f=1"/>][medium]
 
 <br />
 
