@@ -12,15 +12,18 @@
 </p>
 
 
-
-
 I'm a 21 years old backend developer focused on C++ and Python, robotics and astronautics enthusiast. Feel free to contact me on my social medias.
+
+  ---
 
 ![Leozz37 github stats](https://github-readme-stats.vercel.app/api?username=leozz37&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leozz37&layout=compact&hide_border=true)](https://github.com/leozz37/github-readme-stats)
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
+
+
+  ---
 ### Curiosities
 
 🇧🇷 Living in Curitiba, Brazil
@@ -35,6 +38,7 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 
 <br />
 
+  ---
 ### Languages and Tools:
 
 <img align="left" width="26px" src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" />
