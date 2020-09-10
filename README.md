@@ -1,4 +1,5 @@
-# Hi, I'm Leonardo
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Leonardo</h1>
+<h3 align="center">Software Engineer</h3>
 
 I'm a 21 years old backend developer focused on C++ and Python, robotics and astronautics enthusiast. Feel free to contact me on my social medias.
 
@@ -13,7 +14,7 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 
 🎓 Computer Engineering Student @ Positivo University
 
-🏢 Working at [Dextra Digital][dextra]
+🏢 Software Engineer at [Dextra Digital][dextra]
 
 🚀 [CPM][cpmGithub] evangelist!
 
