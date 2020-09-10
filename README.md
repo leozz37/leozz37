@@ -29,11 +29,7 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 
 🏢 Software Engineer at [Dextra Digital][dextra]
 
-🚀 [CPM][cpmGithub] evangelist!
-
 📚 Check my [programming books][books] recomendation
-
-✍️ Check my [writings][medium]
 
 😄 Pronouns: he/him
 
@@ -63,10 +59,4 @@ I'm a 21 years old backend developer focused on C++ and Python, robotics and ast
 <br />
 
 [dextra]: https://dextra.com.br/pt/
-[cpmGithub]: https://github.com/TheLartians/CPM.cmake
-[twitter]: https://twitter.com/Leozzils
-[instagram]: https://www.instagram.com/leo.cpp/?hl=pt-br
-[spotify]: https://open.spotify.com/user/leozzils?si=OqyBabsEQTKYZDxEy0MoFQ
-[linkedin]: https://www.linkedin.com/in/leonardoaugustolima/
-[medium]: https://medium.com/@leonardoaugusto287
 [books]: https://github.com/leozz37/books
