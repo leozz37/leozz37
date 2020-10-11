@@ -40,8 +40,8 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 <img align="left" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" /> 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.p0rlbl65e-OA4VXms4JHWgHaHa%26pid%3DApi&f=1" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbjvbjrDQoxplcvegCBXZ2Y7G-heIfKxKW1Q&usqp=CAU" />
 <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNj90HOhTLvM4gfJP5nTH0ZHr5adE8BnoKxg&usqp=CAU" />
 <img align="left" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
