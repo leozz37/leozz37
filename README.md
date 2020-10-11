@@ -47,7 +47,7 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 <img align="left" width="26px" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
 <img align="left" width="26px" src="https://miro.medium.com/max/501/1*vGoxefPo4asUVmNL1VpEig.png" />
-<img align="left" width="26px" src="https://www.brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" />
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Circleci-icon-logo.svg/1200px-Circleci-icon-logo.svg.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2017/11/amazon-web-services-logo.png" />
 <img align="left" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.loxleyorbit.com%2Fwp-content%2Fuploads%2F2018%2F02%2FGoogle-Cloud-Icon-Logo-Large-192px-color-png.png&f=1&nofb=1" />
@@ -64,5 +64,7 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 <img align="left" width="26px" src="https://e7.pngegg.com/pngimages/938/780/png-clipart-flame-logo-prometheus-logo-icons-logos-emojis-tech-companies-thumbnail.png" />
 <img align="left" width="26px" src="https://rafaelit.files.wordpress.com/2017/12/grafana_icon1.png" />
 <img align="left" width="26px" src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" />
+<img align="left" width="26px" src="https://www.instana.com/media/01_INSTANA_IconSet_Kafka.svg" />
+<img align="left" width="26px" src="https://www.brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" />
 
 <br />
