@@ -55,8 +55,7 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 <img align="left" width="26px" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" />
 <img align="left" width="26px" src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" />
 
-
-
+<br /><br />
 
 <img align="left" width="26px" src="https://secure.meetupstatic.com/photos/event/1/f/8/600_451380504.jpeg" />
 <img align="left" width="26px" src="https://miro.medium.com/max/501/1*vGoxefPo4asUVmNL1VpEig.png" />
