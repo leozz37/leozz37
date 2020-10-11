@@ -45,7 +45,10 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 <img align="left" width="26px" src="https://extendase.files.wordpress.com/2018/05/mongodb.png" />
 <img align="left" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
 <img align="left" width="26px" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" />
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
+<img align="left" width="26px" src="https://img2.gratispng.com/20180515/zxe/kisspng-jenkins-docker-continuous-delivery-installation-so-5afa799e222331.1197773615263645741398.jpg" />
+<img align="left" width="26px" src="https://miro.medium.com/max/501/1*vGoxefPo4asUVmNL1VpEig.png" />
+<img align="left" width="26px" src="https://avatars1.githubusercontent.com/u/44036562?s=280&v=4" />
+
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2017/11/amazon-web-services-logo.png" />
 <img align="left" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.loxleyorbit.com%2Fwp-content%2Fuploads%2F2018%2F02%2FGoogle-Cloud-Icon-Logo-Large-192px-color-png.png&f=1&nofb=1" />
