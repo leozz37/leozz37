@@ -23,7 +23,7 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 
 🇧🇷 Living in Curitiba, Brazil
 
-🎓 Computer Engineering Student @ Positivo University
+🎓 Computer Engineering Student @ [Universidade Positivo](https://en.wikipedia.org/wiki/Universidade_Positivo)
 
 🏢 Software Engineer at [Dextra Digital](https://dextra.com.br/pt/)
 
