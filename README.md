@@ -54,6 +54,7 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 <img align="left" width="26px" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" />
 <img align="left" width="26px" src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" />
 
+
 <br />
 
   ---
@@ -66,10 +67,12 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 <img align="left" width="26px" src="https://e7.pngegg.com/pngimages/938/780/png-clipart-flame-logo-prometheus-logo-icons-logos-emojis-tech-companies-thumbnail.png" />
 <img align="left" width="26px" src="https://rafaelit.files.wordpress.com/2017/12/grafana_icon1.png" />
 <img align="left" width="26px" src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/brucelane/Cinder-ZeroMQ/master/cinderblock.png" />
+
 <img align="left" width="26px" src="https://www.instana.com/media/01_INSTANA_IconSet_Kafka.svg" />
 <img align="left" width="26px" src="https://www.brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" />
-<img align="left" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />
 
+<img align="left" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" width="26px" src="https://hackaday.com/wp-content/uploads/2019/05/EspressifLogo.png?w=600&h=600" />
 <img align="left" width="26px" src="https://avatars0.githubusercontent.com/u/3170529?s=280&v=4" />
