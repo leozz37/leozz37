@@ -47,10 +47,10 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNj90HOhTLvM4gfJP5nTH0ZHr5adE8BnoKxg&usqp=CAU" />
 <img align="left" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
 <img align="left" width="26px" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" />
-<img align="left" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
 <img align="left" width="26px" src="https://appmasters.io/static/google-cloud-platform-logo-1548cb88200dbc04ca79a2447a0db447.png" />
 <img align="left" width="26px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Orange_lambda.svg/980px-Orange_lambda.svg.png" />
+<img align="left" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
 <img align="left" width="26px" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" />
 <img align="left" width="26px" src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" />
 
@@ -68,9 +68,10 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 <img align="left" width="26px" src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" />
 <img align="left" width="26px" src="https://www.instana.com/media/01_INSTANA_IconSet_Kafka.svg" />
 <img align="left" width="26px" src="https://www.brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" />
+<img align="left" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />
+
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" width="26px" src="https://hackaday.com/wp-content/uploads/2019/05/EspressifLogo.png?w=600&h=600" />
-<img align="left" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />
 <img align="left" width="26px" src="https://avatars0.githubusercontent.com/u/3170529?s=280&v=4" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" />
