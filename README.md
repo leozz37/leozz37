@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align='center'>
-<a href="https://dev.to/leozz37"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<!--<a href="https://dev.to/leozz37"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;-->
 <a href="https://www.linkedin.com/in/leonardoaugustolima/"><img height="30" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Leozzils"><img height="30" src="https://image.flaticon.com/icons/svg/733/733579.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/leo.cpp/?hl=pt-br"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
