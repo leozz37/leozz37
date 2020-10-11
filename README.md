@@ -55,7 +55,6 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 <img align="left" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.loxleyorbit.com%2Fwp-content%2Fuploads%2F2018%2F02%2FGoogle-Cloud-Icon-Logo-Large-192px-color-png.png&f=1&nofb=1" />
 <img align="left" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" />
 <img align="left" width="26px" src="https://jbasoftware.com/assets/img/software/grafana.png" />
 
 <br />
