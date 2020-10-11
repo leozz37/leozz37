@@ -57,7 +57,7 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 
   ---
 
-<img align="left" width="26px" src="https://img2.gratispng.com/20180515/zxe/kisspng-jenkins-docker-continuous-delivery-installation-so-5afa799e222331.1197773615263645741398.jpg" />
+<img align="left" width="26px" src="https://secure.meetupstatic.com/photos/event/1/f/8/600_451380504.jpeg" />
 <img align="left" width="26px" src="https://miro.medium.com/max/501/1*vGoxefPo4asUVmNL1VpEig.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Circleci-icon-logo.svg/1200px-Circleci-icon-logo.svg.png" />
 <img align="left" width="26px" src="https://www.klipfolio.com/sites/default/files/integrations/new-relic.png" />
