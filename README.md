@@ -38,6 +38,7 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 
 <img align="left" width="26px" src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" /> 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.p0rlbl65e-OA4VXms4JHWgHaHa%26pid%3DApi&f=1" />
 <img align="left" width="26px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />
