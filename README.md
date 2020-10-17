@@ -46,7 +46,7 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbjvbjrDQoxplcvegCBXZ2Y7G-heIfKxKW1Q&usqp=CAU" />
 <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNj90HOhTLvM4gfJP5nTH0ZHr5adE8BnoKxg&usqp=CAU" />
 <img align="left" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
-<img align="left" width="26px" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" />
+<img align="left" width="26px" src="https://developers.redhat.com/blog/wp-content/uploads/2019/03/logo.png" />
 <img align="left" width="26px" src="https://img.icons8.com/color/452/firebase.png" />
 <img align="left" width="26px" src="https://appmasters.io/static/google-cloud-platform-logo-1548cb88200dbc04ca79a2447a0db447.png" />
 <img align="left" width="26px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />
