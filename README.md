@@ -77,3 +77,7 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" />
 
 <br />
+
+  ---
+
+<p align="center">You can download my resume <a href="https://github.com/leozz37/leozz37/releases/download/v0.1/Leonardo.Lima.pdf">here</a></p>
