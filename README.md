@@ -48,7 +48,6 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 <img align="left" width="26px" src="https://developers.redhat.com/blog/wp-content/uploads/2019/03/logo.png" />
 <img align="left" width="26px" src="https://appmasters.io/static/google-cloud-platform-logo-1548cb88200dbc04ca79a2447a0db447.png" />
 <img align="left" width="26px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />
-<img align="left" width="26px" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" />
 <img align="left" width="26px" src="https://secure.meetupstatic.com/photos/event/1/f/8/600_451380504.jpeg" />
 <img align="left" width="26px" src="https://miro.medium.com/max/501/1*vGoxefPo4asUVmNL1VpEig.png" />
 <img align="left" width="26px" src="https://e7.pngegg.com/pngimages/938/780/png-clipart-flame-logo-prometheus-logo-icons-logos-emojis-tech-companies-thumbnail.png" />
