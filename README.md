@@ -38,22 +38,16 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 
 <img align="left" width="26px" src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" /> 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.p0rlbl65e-OA4VXms4JHWgHaHa%26pid%3DApi&f=1" />
-<img align="left" width="26px" src="https://vuejs.org/images/logo.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbjvbjrDQoxplcvegCBXZ2Y7G-heIfKxKW1Q&usqp=CAU" />
 <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNj90HOhTLvM4gfJP5nTH0ZHr5adE8BnoKxg&usqp=CAU" />
 <img align="left" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
 <img align="left" width="26px" src="https://developers.redhat.com/blog/wp-content/uploads/2019/03/logo.png" />
-<img align="left" width="26px" src="https://img.icons8.com/color/452/firebase.png" />
 <img align="left" width="26px" src="https://appmasters.io/static/google-cloud-platform-logo-1548cb88200dbc04ca79a2447a0db447.png" />
 <img align="left" width="26px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Orange_lambda.svg/980px-Orange_lambda.svg.png" />
-<img align="left" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
 <img align="left" width="26px" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" />
-<img align="left" width="26px" src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" />
 
 <br /><br />
 
