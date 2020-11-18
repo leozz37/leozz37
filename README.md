@@ -40,6 +40,7 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 <img align="left" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.p0rlbl65e-OA4VXms4JHWgHaHa%26pid%3DApi&f=1" />
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbjvbjrDQoxplcvegCBXZ2Y7G-heIfKxKW1Q&usqp=CAU" />
 <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNj90HOhTLvM4gfJP5nTH0ZHr5adE8BnoKxg&usqp=CAU" />
@@ -54,21 +55,5 @@ I'm a 21 years old backend developer focused on C++, Go, and Python. Robotics an
 <img align="left" width="26px" src="https://rafaelit.files.wordpress.com/2017/12/grafana_icon1.png" />
 <img align="left" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-
-<br /><br />
-
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Circleci-icon-logo.svg/1200px-Circleci-icon-logo.svg.png" />
-<img align="left" width="26px" src="https://www.klipfolio.com/sites/default/files/integrations/new-relic.png" />
-<img align="left" width="26px" src="https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/170cb0b90b8da39a5e1327d7151aec53" />
-
-<img align="left" width="26px" src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" />
-<img align="left" width="26px" src="https://grpc.io/img/logos/grpc-icon-color.png" />
-<img align="left" width="26px" src="https://www.instana.com/media/01_INSTANA_IconSet_Kafka.svg" />
-<img align="left" width="26px" src="https://www.brandeps.com/logo-download/R/RabbitMQ-logo-vector-01.svg" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/brucelane/Cinder-ZeroMQ/master/cinderblock.png" />
-<img align="left" width="26px" src="https://hackaday.com/wp-content/uploads/2019/05/EspressifLogo.png?w=600&h=600" />
-<img align="left" width="26px" src="https://avatars0.githubusercontent.com/u/3170529?s=280&v=4" />
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png" />
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" />
 
 <br />
