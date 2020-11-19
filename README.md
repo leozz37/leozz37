@@ -84,5 +84,15 @@ I'm a 21 years old backend developer focused on C++ and Python. Robotics and ast
 
 ### Articles
 
+<img align="center" width="700px" src="images/cicd.png"/>
+
+<img align="center" width="700px" src="images/iot.png" />
+
+<br /><br />
+
+---
+
+### Projects
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leozz37&repo=GoogleCloudPlatform4noobs)](https://github.com/leozz37/GoogleCloudPlatform4noobs)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leozz37&repo=cloud-run-actions-example)](https://github.com/leozz37/cloud-run-actions-example)
