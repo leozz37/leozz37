@@ -79,3 +79,12 @@ I'm a 21 years old backend developer focused on C++ and Python. Robotics and ast
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" />
 
 <br />
+
+---
+
+### Articles
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leozz37&repo=GoogleCloudPlatform4noobs)](https://github.com/leozz37/GoogleCloudPlatform4noobs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leozz37&repo=cloud-run-actions-example)](https://github.com/leozz37/cloud-run-actions-example)
+
+
