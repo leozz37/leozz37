@@ -77,22 +77,3 @@ I'm a 21 years old backend developer focused on C++ and Python. Robotics and ast
 <img align="left" width="26px" src="https://avatars0.githubusercontent.com/u/3170529?s=280&v=4" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" />
-
-<br />
-
----
-
-### Articles
-
-<img align="center" width="700px" src="images/cicd.png"/>
-
-<img align="center" width="700px" src="images/iot.png" />
-
-<br /><br />
-
----
-
-### Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leozz37&repo=GoogleCloudPlatform4noobs)](https://github.com/leozz37/GoogleCloudPlatform4noobs)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leozz37&repo=cloud-run-actions-example)](https://github.com/leozz37/cloud-run-actions-example)
