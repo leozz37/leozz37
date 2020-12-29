@@ -53,4 +53,4 @@ I'm a 21 years old backend developer focused on C++ and Python. Robotics, astron
 <img align="left" width="26px" src="https://rafaelit.files.wordpress.com/2017/12/grafana_icon1.png" />
 <img align="left" width="26px" src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" />
+<img align="left" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />
