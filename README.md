@@ -43,7 +43,7 @@ I'm a 21 years old backend developer focused on C++ and Python. Cloud and chaos 
 <img align="left" width="26px" src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" />
 <img align="left" width="26px" src="https://vuejs.org/images/logo.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
-<img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbjvbjrDQoxplcvegCBXZ2Y7G-heIfKxKW1Q&usqp=CAU" />
+<img align="left" width="26px" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://keytotech.com/wp-content/uploads/2020/01/15.png" />
 <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNj90HOhTLvM4gfJP5nTH0ZHr5adE8BnoKxg&usqp=CAU" />
 <img align="left" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
 <img align="left" width="26px" src="https://www.matza.education/wp-content/uploads/kubernetes.png" />
