@@ -71,7 +71,7 @@ I'm a 21 years old backend developer focused on C++ and Python. Cloud and chaos 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/brucelane/Cinder-ZeroMQ/master/cinderblock.png" />
 <img align="left" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" width="26px" src="https://hackaday.com/wp-content/uploads/2019/05/EspressifLogo.png?w=600&h=600" />
+<img align="left" width="26px" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/b01ulcvxyy2hcvrxqgph" />
 <img align="left" width="26px" src="https://avatars0.githubusercontent.com/u/3170529?s=280&v=4" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" />
