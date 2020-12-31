@@ -61,7 +61,7 @@ I'm a 21 years old backend developer focused on C++ and Python. Cloud and chaos 
 <img align="left" width="26px" src="https://miro.medium.com/max/501/1*vGoxefPo4asUVmNL1VpEig.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Circleci-icon-logo.svg/1200px-Circleci-icon-logo.svg.png" />
 <img align="left" width="26px" src="https://www.klipfolio.com/sites/default/files/integrations/new-relic.png" />
-<img align="left" width="26px" src="https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/170cb0b90b8da39a5e1327d7151aec53" />
+<img align="left" width="26px" src="https://cdn.worldvectorlogo.com/logos/datadog.svg" />
 <img align="left" width="26px" src="https://e7.pngegg.com/pngimages/938/780/png-clipart-flame-logo-prometheus-logo-icons-logos-emojis-tech-companies-thumbnail.png" />
 <img align="left" width="26px" src="https://rafaelit.files.wordpress.com/2017/12/grafana_icon1.png" />
 <img align="left" width="26px" src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" />
