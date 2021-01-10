@@ -10,8 +10,6 @@
 <a href="https://medium.com/@leonardoaugusto287"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg"></a>&nbsp;&nbsp;
 </p>
 
-I'm a 21 years old backend developer focused on C++ and Python. Cloud and chaos engineering enthusiast. Feel free to contact me on my social medias!
-
   ---
 
 ![Leozz37 github stats](https://github-readme-stats.vercel.app/api?username=leozz37&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)
