@@ -12,8 +12,8 @@
 
   ---
 
-![Leozz37 github stats](https://github-readme-stats.vercel.app/api?username=leozz37&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leozz37&layout=compact&hide_border=true&count_private=true&hide=vue&theme=tokyonight)](https://github.com/leozz37?tab=repositories)
+![Leozz37 github stats](https://github-readme-stats.vercel.app/api?username=leozz37&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leozz37&layout=compact&hide_border=true&count_private=true&hide=vue)](https://github.com/leozz37?tab=repositories)
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
