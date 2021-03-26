@@ -29,7 +29,7 @@ I'm a 21 years old backend developer focused on C++ and Python. Cloud and chaos 
 
 📚 Check my [programming books](https://github.com/leozz37/books) recomendation
 
-🐳 Docker evangelist
+:shipit: Golang evangelist
 
 <br />
 
