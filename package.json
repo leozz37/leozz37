@@ -1,0 +1,24 @@
+  
+{
+    "name": "leonardolima",
+    "version": "1.0.0",
+    "description": "Leonardo Lima, the person.",
+    "main": "./info.json",
+    "bin": {
+      "leonardolima": "./leonardolima.js"
+    },
+    "keywords": [
+      "person",
+      "contact"
+    ],
+    "author": "Leonardo Lima",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/leozz37/leozz37.git"
+    },
+    "bugs": {
+      "url": "https://github.com/leozz37/leozz37/issues"
+    },
+    "homepage": "https://github.com/leozz37/leozz37#readme"
+  }
