@@ -14,6 +14,10 @@ I'm a 21 years old backend developer focused on C++ and Python. Cloud and chaos 
 
   ---
 
+![npx command](./images/npx-command.gif)
+
+  ---
+
 ![Leozz37 github stats](https://github-readme-stats.vercel.app/api?username=leozz37&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leozz37&layout=compact&hide_border=true&count_private=true&hide=vue&theme=radical)](https://github.com/leozz37?tab=repositories)
 
