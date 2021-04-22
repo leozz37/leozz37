@@ -8,6 +8,8 @@
 <br />
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leozz37&repo=iot-monitoring-gcp-grafana)](https://github.com/leozz37/iot-monitoring-gcp-grafana)
 <br />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leozz37&repo=golang-elk-example)](https://github.com/leozz37/golang-elk-example)
+<br />
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leozz37&repo=django-new-relic)](https://github.com/leozz37/django-new-relic)
 <br />
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leozz37&repo=rust-echo-server)](https://github.com/leozz37/rust-echo-server)
