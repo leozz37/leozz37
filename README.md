@@ -10,7 +10,7 @@
 <a href="https://medium.com/@leonardoaugusto287"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg"></a>&nbsp;&nbsp;
 </p>
 
-I'm a 21 years old backend developer focused on C++ and Golang. Cloud and chaos engineering enthusiast. Feel free to contact me on my social medias!
+I'm a 22 years old backend developer focused on C++ and Golang. Cloud and chaos engineering enthusiast. Feel free to contact me on my social medias!
 
   ---
 
