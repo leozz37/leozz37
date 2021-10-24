@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/leonardoaugustolima/"><img height="30" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Leozzils"><img height="30" src="https://image.flaticon.com/icons/svg/733/733579.svg"></a>&nbsp;&nbsp;
 <!-- <a href="https://www.instagram.com/leo.cpp/?hl=pt-br"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp; -->
-<a href="https://open.spotify.com/user/leozzils?si=OqyBabsEQTKYZDxEy0MoFQ"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@leonardoaugusto287"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111505.svg"></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/leozzils?si=OqyBabsEQTKYZDxEy0MoFQ"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@leonardoaugusto287"><img height="30" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png"></a>&nbsp;&nbsp;
 </p>
 
 I'm a 22 years old backend developer focused on C++ and Golang. Cloud and chaos engineering enthusiast. Feel free to contact me on my social medias!
