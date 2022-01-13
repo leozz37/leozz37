@@ -1,4 +1,4 @@
-# List of projects:
+# Projects examples using modern Software Tools:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=leozz37&repo=gin-app-template)](https://github.com/leozz37/gin-app-template)
 <br />
