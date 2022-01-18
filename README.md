@@ -5,8 +5,9 @@
 <a href="https://dev.to/leozz37"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/leonardoaugustolima/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Leozzils"><img height="30" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/12252869/leonardo-lima"><img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"></a>&nbsp;&nbsp;
 <!-- <a href="https://www.instagram.com/leo.cpp/?hl=pt-br"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp; -->
-<a href="https://open.spotify.com/user/leozzils?si=OqyBabsEQTKYZDxEy0MoFQ"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png"></a>&nbsp;&nbsp;
+<!-- <a href="https://open.spotify.com/user/leozzils?si=OqyBabsEQTKYZDxEy0MoFQ"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png"></a>&nbsp;&nbsp; -->
 <a href="https://medium.com/@leonardoaugusto287"><img height="30" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png"></a>&nbsp;&nbsp;
 </p>
 
