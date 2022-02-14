@@ -15,14 +15,6 @@ I'm a 22 years old backend developer focused on C++, Python, Rust and Golang. Cl
 
   ---
 
-<h3 align="center">Certifications</h3>
-
-<img src="./images/hashicorp-certified-terraform-associate-removebg-preview.png" width="150px"/>
-
-<br clear="all" />
-
-  ---
-
 ![npx command](./images/npx-command.gif)
 
 ```shell
@@ -53,7 +45,8 @@ $ npx leonardolima
 <br />
 
   ---
-### Languages and Tools:
+
+### Languages and Tools
 
 <img align="left" width="26px" src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
@@ -94,3 +87,11 @@ $ npx leonardolima
 <img align="left" width="26px" src="https://avatars0.githubusercontent.com/u/3170529?s=280&v=4" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" />
+
+<br clear="all" />
+
+  ---
+
+### Certifications
+
+<img src="./images/hashicorp-certified-terraform-associate-removebg-preview.png" width="150px"/>
