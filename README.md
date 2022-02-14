@@ -17,9 +17,8 @@ I'm a 22 years old backend developer focused on C++, Python, Rust and Golang. Cl
 
 <h3 align="center">Certifications</h3>
 
-<img align="left" src="./images/hashicorp-certified-terraform-associate-removebg-preview.png" width="150px"/>
+<img src="./images/hashicorp-certified-terraform-associate-removebg-preview.png" width="150px"/>
 
-  
 <br clear="all" />
 
   ---
