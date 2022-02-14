@@ -14,6 +14,14 @@
 I'm a 22 years old backend developer focused on C++, Python, Rust and Golang. Cloud and chaos engineering enthusiast. Feel free to contact me on my social medias!
 
   ---
+  
+<h3 align="center">Certifications</h3>
+
+<img align="left" src="./images/hashicorp-certified-terraform-associate.png" width="200px" />
+
+<br />
+
+  ---
 
 ![npx command](./images/npx-command.gif)
 
