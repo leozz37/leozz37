@@ -62,7 +62,7 @@ $ npx leonardolima
 <img align="left" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
 <img align="left" width="26px" src="https://www.matza.education/wp-content/uploads/kubernetes.png" />
 <img align="left" width="26px" src="https://img.icons8.com/color/452/firebase.png" />
-<img align="left" width="26px" src="https://appmasters.io/static/google-cloud-platform-logo-1548cb88200dbc04ca79a2447a0db447.png" />
+<img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-5.png" />
 <img align="left" width="26px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Orange_lambda.svg/980px-Orange_lambda.svg.png" />
 <img align="left" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
