@@ -59,7 +59,8 @@ $ npx leonardolima
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 <img align="left" width="26px" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://keytotech.com/wp-content/uploads/2020/01/15.png" />
 <img align="left" width="26px" src="https://static.viget.com/_284x284_crop_center-center_none/mongo-logo.png?mtime=20200729151614&focal=none&tmtime=20200729151719" />
-<img align="left" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
+<img align="left" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
+<!-- <img align="left" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" /> -->
 <img align="left" width="26px" src="https://www.matza.education/wp-content/uploads/kubernetes.png" />
 <img align="left" width="26px" src="https://img.icons8.com/color/452/firebase.png" />
 <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-5.png" />
