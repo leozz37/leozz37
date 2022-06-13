@@ -96,13 +96,5 @@ $ npx leonardolima
 
 ### Certifications
 
-<div class="row">
-  <div class="column">
-    <img src="./images/hashicorp-certified-terraform-associate-removebg-preview.png" width="150px"/>
-  </div>
-  <div class="column">
-    <img src="https://miro.medium.com/max/512/1*DJbMy16VAW8pc4vfuWCbQg.png" width="150px"/>
-  </div>
-</div>
-<!-- <img src="./images/hashicorp-certified-terraform-associate-removebg-preview.png" width="150px"/> -->
+<img src="./images/hashicorp-certified-terraform-associate-removebg-preview.png" width="150px"/>
 <!-- <img src="https://miro.medium.com/max/512/1*DJbMy16VAW8pc4vfuWCbQg.png" width="150px"/> -->
