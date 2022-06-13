@@ -97,3 +97,4 @@ $ npx leonardolima
 ### Certifications
 
 <img src="./images/hashicorp-certified-terraform-associate-removebg-preview.png" width="150px"/>
+<img src="https://miro.medium.com/max/512/1*DJbMy16VAW8pc4vfuWCbQg.png" width="150px"/>
