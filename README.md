@@ -41,7 +41,7 @@ $ npx leonardolima
 
 📚 Check my [programming books](https://github.com/leozz37/books) recomendation
 
-👨‍💻 Check some of my projects using modern tools [here](https://github.com/leozz37/leozz37/blob/master/PROJECTS.md).
+👨‍💻 Check some of my projects samples using modern tools [here](https://github.com/leozz37/leozz37/blob/master/PROJECTS.md).
 
 
 <br />
