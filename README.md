@@ -13,7 +13,7 @@
 <a href="https://medium.com/@leonardoaugusto287"><img height="30" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png"></a>&nbsp;&nbsp;
 </p>
 
-I'm a 22 years old backend developer focused on C++, Python, Rust and Golang. Cloud and chaos engineering enthusiast. Feel free to contact me on my social medias!
+I'm a 22 years old backend developer focused on Golang, Python, and Rust. Cloud and chaos engineering enthusiast. Feel free to contact me on my social medias!
 
   ---
 
