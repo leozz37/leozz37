@@ -41,7 +41,7 @@ $ npx leonardolima
 
 🎓 Computer Engineering @ [Universidade Positivo](https://en.wikipedia.org/wiki/Universidade_Positivo)
 
-🏢 Software Engineer @ Microsoft
+🏢 Software Engineer @ [Microsoft](https://www.microsoft.com/)
 
 📚 Check my [programming books](https://github.com/leozz37/books) recomendation
 
