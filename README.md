@@ -41,7 +41,7 @@ $ npx leonardolima
 
 🎓 Computer Engineering @ [Universidade Positivo](https://en.wikipedia.org/wiki/Universidade_Positivo)
 
-🏢 Software Engineer @ [iFood](https://www.ifood.com.br/mercado?gclid=CjwKCAiA1aiMBhAUEiwACw25MdUlrNsAn0pRbA2RyztZPply8VtMm7RL9WGhlR3_4hAj2aHuGi1t1xoCGF0QAvD_BwE)
+🏢 Software Engineer @ Microsoft
 
 📚 Check my [programming books](https://github.com/leozz37/books) recomendation
 
