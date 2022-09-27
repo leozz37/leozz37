@@ -13,7 +13,7 @@
 <a href="https://medium.com/@leonardoaugusto287"><img height="30" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png"></a>&nbsp;&nbsp;
 </p>
 
-I'm a 23 years old backend developer focused on Golang, Python, and Rust. Cloud and chaos engineering enthusiast. Feel free to contact me on my social medias!
+I'm a 23 years old backend developer focused on Golang, Python, and Rust, working at Microsft. Cloud and chaos engineering enthusiast. Feel free to contact me on my social medias!
 
   ---
 
@@ -45,8 +45,11 @@ $ npx leonardolima
 
 📚 Check my [programming books](https://github.com/leozz37/books) recomendation
 
-👨‍💻 Check some of my projects samples using modern tools [here](https://github.com/leozz37/leozz37/blob/master/PROJECTS.md).
+🌎 I'm a polyglot, I speak English, Portuguese, Spanish, French and learning German!
 
+🎻 My hobbies are photography, violin, brewing coffee, whisky, cycling, chess, Rubik's cubes, lock picking and bonsai
+
+👨‍💻 Check some of my projects samples using modern tools [here](https://github.com/leozz37/leozz37/blob/master/PROJECTS.md)
 
 <br />
 
