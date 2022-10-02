@@ -47,7 +47,7 @@ $ npx leonardolima
 
 🌎 I'm a polyglot, I speak English, Portuguese, Spanish, French and learning German!
 
-🎻 My hobbies are photography, violin, brewing coffee, whisky, cycling, chess, Rubik's cubes, lock picking and bonsai
+🎻 My hobbies are violin, photography, brewing coffee, whisky, cycling, chess, Rubik's cubes, reading and bonsai
 
 👨‍💻 Check some of my projects samples using modern tools [here](https://github.com/leozz37/leozz37/blob/master/PROJECTS.md)
 
