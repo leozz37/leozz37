@@ -13,7 +13,7 @@
 <a href="https://medium.com/@leozz37"><img height="30" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png"></a>&nbsp;&nbsp;
 </p>
 
-I'm a 23 years old backend developer focused on Golang, Python, and Rust, working at Microsft. Cloud and chaos engineering enthusiast. Feel free to contact me on my social medias!
+I'm a 23 years old Software Engineer at [@Microsoft](https://github.com/microsoft). Computer Engineering graduated, studying Digital Transformation at [@MIT](https://github.com/mit). Chaos engineering and Astronautics enthusiast. Driven to use technology to solve complex problems and create positive impact in people's lives. Feel free to contact me on my social medias!
 
   ---
 
