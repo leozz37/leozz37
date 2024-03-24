@@ -104,6 +104,6 @@ $ npx leonardolima
 
 ### Certifications
 
-<img src="./images/logos.png" width="600px"/>
+[<img src="./images/logos.png" width="600px"/>](https://learn.microsoft.com/pt-br/users/leonardoaugustoperegodelima-7982/?wt.mc_id=pvue_msft_webpage_wwl)
 <!-- <img src="./images/hashicorp-certified-terraform-associate-removebg-preview.png" width="150px"/> -->
 <!-- <img src="https://miro.medium.com/max/512/1*DJbMy16VAW8pc4vfuWCbQg.png" width="150px"/> -->
