@@ -39,7 +39,7 @@ $ npx leonardolima
 
 🇧🇷 Living in [Curitiba](https://www.google.com/maps/place/Curitiba,+PR/@-25.4950501,-49.4298839,11z/data=!3m1!4b1!4m5!3m4!1s0x94dce35351cdb3dd:0x6d2f6ba5bacbe809!8m2!3d-25.4289541!4d-49.267137), Brazil
 
-🎓 Digital Transformation @ [Massachusetts Institute of Technology](https://www.mit.edu/)
+🎓 Leadership and Management @ [Massachusetts Institute of Technology](https://www.mit.edu/)
 
 🏢 Software Engineer @ [Microsoft](https://www.microsoft.com/)
 
